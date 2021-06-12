@@ -9,4 +9,4 @@ jQuery(document).ready(function ($) {
 		}, 750);
 	});
 
-});
+}); /* 스크롤 아이콘 태그*/
